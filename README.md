@@ -32,10 +32,11 @@ Run the Jupyter Notebook to reproduce the analysis and visualizations. Ensure al
 ## Resources and Support
 - For this project, I used multiple resources to ensure the successful completion of the assignment:
 
-ChatGPT (AI Assistant): For guidance on code logic, debugging, structuring the scripts and formatting my Readme file.
-Xpert Learning Assistant: For debugging and grasping concepts and formula sequence.
-Tutoring Sessions: I completed a tutoring session to further refine my understanding of coding, project requirements and Github.
-All external resources used are listed here for transparency.
+- ChatGPT (AI Assistant): For guidance on code logic, debugging, structuring the scripts and formatting my Readme file.
+- Xpert Learning Assistant: For debugging and grasping concepts and formula sequence.
+- Tutoring Sessions: I completed a tutoring session to further refine my understanding of coding, project requirements and Github.
+- All external resources used are listed here for transparency.
+
 ---
 
 **Author**: Daena Wallace - Data Analyst
